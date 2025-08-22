@@ -1,4 +1,4 @@
-# CNN Image Classification Project
+# Celebrity Face Recognition
 
 This project demonstrates how to build and train a Convolutional Neural Network (CNN) for face recognition. 
 The dataset is pulled from Kaggle via `kagglehub`, preprocessed with OpenCV, and used to train a deep learning model in TensorFlow/Keras. 
