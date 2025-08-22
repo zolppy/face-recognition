@@ -1,8 +1,6 @@
 # Celebrity Face Recognition
 
-This project demonstrates how to build and train a Convolutional Neural Network (CNN) for face recognition. 
-The dataset is pulled from Kaggle via `kagglehub`, preprocessed with OpenCV, and used to train a deep learning model in TensorFlow/Keras. 
-The notebook walks through dataset loading, preprocessing, model building, training, evaluation, and visualization of predictions.
+Celebrity face recognition system built using deep learning. It leverages a Convolutional Neural Network to identify individuals from a dataset of celebrity images. The system first pre-processes the image data, trains the model, and then uses a Haar Cascade classifier to detect faces in new images. Finally, it uses the trained model to predict and display the identity of the detected celebrity.
 
 ---
 
