@@ -1,7 +1,8 @@
 # CNN Image Classification Project
 
-This repository contains a Convolutional Neural Network (CNN) built with **TensorFlow/Keras** for image classification.  
-The project demonstrates how to load a dataset from **Kaggle**, preprocess images, train a deep learning model, and evaluate its performance with visualizations.
+This project demonstrates how to build and train a Convolutional Neural Network (CNN) for face recognition. 
+The dataset is pulled from Kaggle via `kagglehub`, preprocessed with OpenCV, and used to train a deep learning model in TensorFlow/Keras. 
+The notebook walks through dataset loading, preprocessing, model building, training, evaluation, and visualization of predictions.
 
 ---
 
